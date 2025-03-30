@@ -30,10 +30,11 @@ def main():
     elif option == '3':
        exit = input('Do you wish to exit? Y or N: ')
        if exit == 'Y':
-          print('Program Exiting...')
+          print('Program Exiting....')
           
        else: 
              print('Try again')
+             
 
             
     

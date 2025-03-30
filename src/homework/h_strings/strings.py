@@ -7,6 +7,7 @@ def get_hamming_distance(dna1, dna2):
     return distance
 
         
+        
     
 
 def get_dna_complement(dna):
