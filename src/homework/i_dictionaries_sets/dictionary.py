@@ -19,6 +19,7 @@ def remove_inventory_widget(inventory, widget_name):
         return 'Record Deleted'
  else:
      return 'Item not found'
+ 
 
         
 

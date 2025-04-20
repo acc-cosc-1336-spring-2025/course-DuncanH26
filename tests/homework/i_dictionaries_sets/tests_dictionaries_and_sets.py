@@ -34,6 +34,7 @@ class Test_Config(unittest.TestCase):
 
         self.assertEqual(len(inventory), 1)
         self.assertEqual('Widget2', inventory)
+        
 
 
 
